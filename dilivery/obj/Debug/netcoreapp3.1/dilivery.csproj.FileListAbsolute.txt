@@ -1,0 +1,13 @@
+C:\Users\03ezn_02\Desktop\dilivery\dilivery\bin\Debug\netcoreapp3.1\dilivery.exe
+C:\Users\03ezn_02\Desktop\dilivery\dilivery\bin\Debug\netcoreapp3.1\dilivery.deps.json
+C:\Users\03ezn_02\Desktop\dilivery\dilivery\bin\Debug\netcoreapp3.1\dilivery.runtimeconfig.json
+C:\Users\03ezn_02\Desktop\dilivery\dilivery\bin\Debug\netcoreapp3.1\dilivery.runtimeconfig.dev.json
+C:\Users\03ezn_02\Desktop\dilivery\dilivery\bin\Debug\netcoreapp3.1\dilivery.dll
+C:\Users\03ezn_02\Desktop\dilivery\dilivery\bin\Debug\netcoreapp3.1\dilivery.pdb
+C:\Users\03ezn_02\Desktop\dilivery\dilivery\obj\Debug\netcoreapp3.1\dilivery.csprojAssemblyReference.cache
+C:\Users\03ezn_02\Desktop\dilivery\dilivery\obj\Debug\netcoreapp3.1\dilivery.csproj.CoreCompileInputs.cache
+C:\Users\03ezn_02\Desktop\dilivery\dilivery\obj\Debug\netcoreapp3.1\dilivery.AssemblyInfoInputs.cache
+C:\Users\03ezn_02\Desktop\dilivery\dilivery\obj\Debug\netcoreapp3.1\dilivery.AssemblyInfo.cs
+C:\Users\03ezn_02\Desktop\dilivery\dilivery\obj\Debug\netcoreapp3.1\dilivery.dll
+C:\Users\03ezn_02\Desktop\dilivery\dilivery\obj\Debug\netcoreapp3.1\dilivery.pdb
+C:\Users\03ezn_02\Desktop\dilivery\dilivery\obj\Debug\netcoreapp3.1\dilivery.genruntimeconfig.cache
